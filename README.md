@@ -12,9 +12,9 @@ This application uses [The Graph](https://thegraph.com/docs/quick-start#local-de
 yarn global add @graphprotocol/graph-cli
 ```
 
-* Create a Graph account and obtain API key from Graph user dashboard
+* [Create a Graph account](https://thegraph.com/docs/deploy-a-subgraph#create-a-graph-explorer-account) and obtain API key from Graph user dashboard
 
-* Run the bellow command to [store the Graph access token](https://thegraph.com/docs/deploy-a-subgraph#store-the-access-token) on your environment:
+* Run the below command to [store the Graph access token](https://thegraph.com/docs/deploy-a-subgraph#store-the-access-token) on your environment:
 
 ```
 graph auth https://api.thegraph.com/deploy/<api_key>
